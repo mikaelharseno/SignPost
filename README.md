@@ -1,4 +1,1 @@
-# NBodyProj
-# SignPost
-# SignPost
 # SignPost
